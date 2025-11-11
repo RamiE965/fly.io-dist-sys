@@ -1,6 +1,0 @@
-Error: Operation is not valid due to the current state of the object.
-   at System.Text.Json.JsonElement.CheckValidInstance()
-   at System.Text.Json.JsonElement.TryGetProperty(ReadOnlySpan`1 propertyName, JsonElement& value)
-   at System.Text.Json.JsonElement.TryGetProperty(String propertyName, JsonElement& value)
-   at Maelstrom.Core.Node.Run() in /Users/ramielsayed/projects/fly.io-dist-sys/src/Maelstrom.Core/Node.cs:line 100
-   at Program.<Main>$(String[] args) in /Users/ramielsayed/projects/fly.io-dist-sys/src/Challenge01.Echo/Program.cs:line 41

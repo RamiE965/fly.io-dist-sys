@@ -1,0 +1,31 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Maelstrom
+maelstrom/
+store/
+*.tar.bz2
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
